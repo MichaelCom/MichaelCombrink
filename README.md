@@ -18,7 +18,7 @@ I am currently studying BITHons at the University of Pretoria. I completed my BI
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### Databases
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/DynamoDB-005571?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_DynamoDB-005571?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ### Other
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
