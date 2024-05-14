@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCom&layout=compact)](https://github.com/MichaelCom/github-readme-stats)
 
 # About
-I am currently studying BScHons Computer Science at the University of Pretoria. I completed my BSc Computer Science degree with distinction in the year 2023. I am passionate about all things computer science and love problem solving and using code to automate daily tasks. \
+I am currently studying BITHons at the University of Pretoria. I completed my BIT IS degree in the year 2023. I am passionate about all things computers and love problem solving and using code to automate daily tasks. \
 
 <!--
 **MichaelDuPlessis/MichaelDuPlessis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
